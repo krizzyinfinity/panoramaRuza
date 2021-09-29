@@ -1,0 +1,58 @@
+[  
+    {
+        "id": 1,
+        "apartment": 1,
+        "name": "one bedroom",
+        "price": 75,
+        "capacity": 3,
+        "numberOfPeople": "3",
+        "images": "room1",
+        "description":
+        "one bedroom apartment on the ground floor with common sea view terrace – max 3 people, or 2+child, hot tub located on the sun deck with sea view (up to 3 people per jacuzzi),  continental breakfast (optional and it is 7 € per person)served on a common sea view terrace, flat TV, fast Wi-Fi and AC. Also, we have badminton set, volleyballs and table tennis at your disposal. Sun loungers for each apartment on the sun deck. Bicycles, kayaks, taxi service and dinner option, available for an additional fee."
+    },
+    {
+        "id": 2,
+        "apartment": 2,
+        "name": "one bedroom",
+        "price": 75,
+        "capacity": 3,
+        "numberOfPeople": "3",
+        "images": "room1",
+        "description":
+        "one bedroom apartment on the ground floor with common sea view terrace – max 3 people, or 2+child, hot tub located on the sun deck with sea view (up to 3 people per jacuzzi),  continental breakfast (optional and it is 7 € per person)served on a common sea view terrace, flat TV, fast Wi-Fi and AC. Also, we have badminton set, volleyballs and table tennis at your disposal. Sun loungers for each apartment on the sun deck. Bicycles, kayaks, taxi service and dinner option, available for an additional fee."
+    },
+    {
+        "id": 3,
+        "apartment": 3,
+        "name": "studio apartment",
+        "price": 75,
+        "capacity": 3,
+        "numberOfPeople": "3",
+        "images": "img19",
+        "description":
+        "studio apartment on the first floor with the sea view terrace, hot tub located on the sun deck with sea view (up to 3 people per jacuzzi),  continental breakfast (optional and it is 7 € per person)served on a common sea view terrace, flat TV, fast Wi-Fi and AC. Also, we have badminton set, volleyballs and table tennis at your disposal. Sun loungers for each apartment on the sun deck. Bicycles, kayaks, taxi service and dinner option, available for an additional fee"
+    },
+    {
+        "id": 4,
+        "apartment": 4,
+        "name": "studio apartment",
+        "price": 75,
+        "capacity": 3,
+        "numberOfPeople": "3",
+        "images": "img19",
+        "description":
+        "studio apartment on the first floor with the sea view terrace, hot tub located on the sun deck with sea view (up to 3 people per jacuzzi),  continental breakfast (optional and it is 7 € per person)served on a common sea view terrace, flat TV, fast Wi-Fi and AC. Also, we have badminton set, volleyballs and table tennis at your disposal. Sun loungers for each apartment on the sun deck. Bicycles, kayaks, taxi service and dinner option, available for an additional fee"
+    },
+    {
+      "id": 5,
+      "apartment": 5,
+        "name": "family apartment",
+        "price": 100,
+        "capacity": 5,
+        "numberOfPeople": "3",
+        "images": "img19",
+        "description":
+        "65m2 with living room, 2 bedrooms, bathroom, kitchenette and outside grill, private inflatable hot tub on private terrace. Can accommodate up to 5 people. Dinner and breakfast option available for additional fee. Bicycle, kayaks and taxi service can be arranged at the property. Table tennis, volleyballs and badminton set at your disposal. Sun loungers provided. "
+    }
+   
+  ]
