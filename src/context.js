@@ -7,7 +7,7 @@ const RoomContext = React.createContext();
  class RoomProvider extends Component {
   state = {
 rooms: [],
-sortedRoomsara:[],
+sortedRooms:[],
 featuredRooms:[],
 loading: true
 };
